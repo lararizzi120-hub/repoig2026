@@ -1,0 +1,8 @@
+p{color: darkred;}
+body{background-color: cadetblue;}
+h1{color: gold; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+h2{color: darkgreen; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+#Skins{color: dodgerblue; background-color: rgb(135, 222, 161);}
+#Sinopsis{color: rgb(93, 252, 93); background-color: darkgray;}
+.azul{color: rgb(82, 43, 15); background-color: darksalmon;}
+.violeta{color: blueviolet;} .gris{background-color: gray;}

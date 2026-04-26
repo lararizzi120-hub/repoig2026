@@ -1,0 +1,67 @@
+body {
+  background-color: #111;
+  color: #f5f5f5;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+<!-- la ia necesita saber la estructura del html, que etiquetas usar como por ejemplo, h1,p,ul,img. si hay menu o listas, imagenes o links. tambien el estilo que quiero, que colores o tipografias, tambien la informacion que va a ir en la paginas-->
+<!-- declaracion de uso de IA-->
+<!-- al comparar una version con la otra logre darme cuenta de que la ia logra organizar mejor el estilo y es mucho mas facil de entender el orden, creo que estA mejor estructurado, tiene un mejor sentido, aporta una mejor estetica a la pagina-->
+/* MENÚ */
+ul {
+  background-color: #000;
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+a {
+  color: #ff2e63;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #08d9d6;
+}
+
+/* TÍTULOS */
+h1 {
+  text-align: center;
+  color: #ff2e63;
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+/* PÁRRAFOS */
+p {
+  width: 80%;
+  margin: auto;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+/* IMÁGENES */
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 60%;
+}
+
+/* ID ESPECÍFICO */
+#Skins {
+  color: #08d9d6;
+  font-size: 50px;
+}
+
+/* CLASES */
+.destacado {
+  color: #ff2e63;
+  font-weight: bold;
+}
+
+.centrado {
+  text-align: center;
+}
